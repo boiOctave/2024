@@ -1,4 +1,4 @@
-package feb17;
+package feb17.PRINTSTUDENT;
 
 public class feb17 {
 
